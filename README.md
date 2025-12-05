@@ -1,96 +1,69 @@
-# TERALYXA-3 — AI Automation Agency
+# TeralyxA³ – AI Automation Agency
 
-**Tagline:** Automate your business with AI — save time, reduce costs, and scale fast.
+TeralyxA³ is an AI-driven automation agency focused on building fast, reliable, and scalable automation systems for modern businesses.  
+We replace repetitive manual work with intelligent, 24/7 automated workflows using advanced tools such as n8n, Make.com, Zapier, Python, and custom AI APIs.
 
----
-
-## 🚀 Overview
-
-TERALYXA-3 is a modern AI automation company helping businesses eliminate repetitive manual work and operate smarter using AI-driven systems. We create high‑performance automation for workflows, lead generation, customer engagement, and internal operations.
-
-**CEO:** Krishna
+This repository contains the code, workflows, documentation, and demos powering the automation systems built at TeralyxA³.
 
 ---
 
-## 🎯 What We Do
+## Vision
 
-* AI‑powered business workflows
-* Email & WhatsApp automation
-* Lead generation & follow‑up systems
-* CRM pipeline automation
-* Payment, email, and API integrations
-* Auto‑reporting & analytics dashboards
-
-We design systems that run 24/7 with zero maintenance.
+To make enterprise-grade automation accessible for small, medium, and large businesses through smart AI-powered workflows, seamless integrations, and real-time data systems.
 
 ---
 
-## 📦 Services
+## What We Build
 
-### **AI Automation**
+### 1. Workflow Automation
+- Lead collection and routing  
+- CRM integrations  
+- Form-to-database pipelines  
+- Payment → invoice automation  
+- Google Sheets automation  
+- Calendar and scheduling automations  
 
-* Custom workflows (n8n / Zapier / Make)
-* Smart email replies
-* Customer onboarding flows
-* Automated reporting
+### 2. Sales Automation
+- Lead qualification  
+- Auto follow-ups  
+- WhatsApp and email sequences  
+- Proposal and contract automation  
+- Deal pipeline movement  
 
-### **Lead & Sales Automation**
+### 3. Marketing Automation
+- Email marketing workflows  
+- WhatsApp campaigns  
+- Content publishing automation  
+- AI-generated content scheduling  
 
-* Lead capture bots
-* Auto follow‑up sequences
-* Lead scoring & segmentation
-* Appointment systems
+### 4. Customer Support Automation
+- AI chatbots  
+- Auto-response systems  
+- Ticketing automation  
+- Escalation & SLA workflows  
 
-### **Integrations**
+### 5. Data & Reporting Automation
+- Automated dashboards  
+- Daily/weekly business reports  
+- KPI monitoring  
+- Real-time analytics pipelines  
 
-We connect tools like Gmail, Outlook, HubSpot, Zoho, Notion, Google Sheets, Razorpay, Stripe, CRMs, and APIs.
+### 6. AI Systems Development
+- AI assistants  
+- Voice agents  
+- Document analyzers  
+- Custom LLM-based decision systems  
 
----
-
-## 💸 Pricing
-
-### **Basic – ₹15,000**
-
-For businesses wanting one automated workflow.
-
-### **Advanced – ₹40,000 (Popular)**
-
-Multiple workflows with priority support.
-
-### **Monthly Support – ₹10,000/month**
-
-Ongoing optimization and 24/7 monitoring.
-
----
-
-## 🧾 Case Studies
-
-**Clinic Automation** — Appointment reminders → *70% fewer no‑shows*
-
-**E‑commerce** — AI email replies → *Higher repeat orders*
-
-**Real Estate** — Auto WhatsApp follow‑up → *Faster deal closures*
-
----
-
-## ❓ FAQ
-
-**Do I need technical knowledge?** No, we handle 100% of setup.
-
-**How long does setup take?** Typically 3–7 days.
-
-**Can I upgrade later?** Yes, anytime.
+### 7. Integrations
+- Google Workspace  
+- WhatsApp API  
+- CRM platforms  
+- Shopify, WooCommerce  
+- Notion, Slack, Trello  
+- Payment gateways  
+- Custom APIs  
 
 ---
 
-## 📞 Contact
+## Repository Structure
 
-Ready to automate your business?
-
-* **Email:** [contact@teralyxa3.com](mailto:contact@teralyxa3.com)
-* **WhatsApp:** +91‑XXXXXXXXXX
-* **Location:** Mumbai, India
-
----
-
-**TERALYXA-3 — Automate. Monitor. Grow.***
